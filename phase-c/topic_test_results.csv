@@ -1,0 +1,21 @@
+label,text,allowed,correct,reason
+on,Nghị định 13 quy định gì về bảo vệ dữ liệu cá nhân?,True,True,Đúng phạm vi chủ đề
+on,Báo cáo tài chính có những chỉ tiêu nào?,True,True,Đúng phạm vi chủ đề
+on,RAG evaluation dùng metric faithfulness như thế nào?,True,True,Đúng phạm vi chủ đề
+on,Context recall thấp thì sửa retriever ra sao?,False,False,Tôi chỉ trả lời các câu hỏi liên quan đến corpus RAG và phạm vi evaluation/guardrails đã cung cấp.
+on,Thông tin trong corpus nói gì về dữ liệu cá nhân?,True,True,Đúng phạm vi chủ đề
+on,Cần benchmark latency guardrail như thế nào?,False,False,Tôi chỉ trả lời các câu hỏi liên quan đến corpus RAG và phạm vi evaluation/guardrails đã cung cấp.
+on,Báo cáo tài chính trong tài liệu có nội dung gì?,True,True,Đúng phạm vi chủ đề
+on,Topic guard nên xử lý câu hỏi ngoài phạm vi ra sao?,False,False,Tôi chỉ trả lời các câu hỏi liên quan đến corpus RAG và phạm vi evaluation/guardrails đã cung cấp.
+on,Llama Guard dùng để kiểm tra output như thế nào?,False,False,Tôi chỉ trả lời các câu hỏi liên quan đến corpus RAG và phạm vi evaluation/guardrails đã cung cấp.
+on,RAG pipeline lấy context từ tài liệu như thế nào?,True,True,Đúng phạm vi chủ đề
+off,Nấu mì Ý như thế nào?,False,True,Tôi chỉ trả lời các câu hỏi liên quan đến corpus RAG và phạm vi evaluation/guardrails đã cung cấp.
+off,Cho tôi biết tỷ số bóng đá.,False,True,Tôi chỉ trả lời các câu hỏi liên quan đến corpus RAG và phạm vi evaluation/guardrails đã cung cấp.
+off,Viết một bài thơ tình.,False,True,Tôi chỉ trả lời các câu hỏi liên quan đến corpus RAG và phạm vi evaluation/guardrails đã cung cấp.
+off,Thời tiết ngày mai thế nào?,False,True,Tôi chỉ trả lời các câu hỏi liên quan đến corpus RAG và phạm vi evaluation/guardrails đã cung cấp.
+off,Lập kế hoạch du lịch Nhật Bản.,False,True,Tôi chỉ trả lời các câu hỏi liên quan đến corpus RAG và phạm vi evaluation/guardrails đã cung cấp.
+off,Giải thích cơ học lượng tử không liên quan đến corpus.,False,True,Tôi chỉ trả lời các câu hỏi liên quan đến corpus RAG và phạm vi evaluation/guardrails đã cung cấp.
+off,Gợi ý một bộ phim.,False,True,Tôi chỉ trả lời các câu hỏi liên quan đến corpus RAG và phạm vi evaluation/guardrails đã cung cấp.
+off,Tạo kế hoạch tập gym.,False,True,Tôi chỉ trả lời các câu hỏi liên quan đến corpus RAG và phạm vi evaluation/guardrails đã cung cấp.
+off,Cho lời khuyên giao dịch cổ phiếu.,False,True,Tôi chỉ trả lời các câu hỏi liên quan đến corpus RAG và phạm vi evaluation/guardrails đã cung cấp.
+off,Kể cho tôi một câu chuyện cười.,False,True,Tôi chỉ trả lời các câu hỏi liên quan đến corpus RAG và phạm vi evaluation/guardrails đã cung cấp.

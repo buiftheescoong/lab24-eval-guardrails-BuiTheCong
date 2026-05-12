@@ -1,0 +1,8 @@
+{
+  "faithfulness": 0.2328771228771229,
+  "answer_relevancy": 0.0767940269251638,
+  "context_precision": 0.30499999997333327,
+  "context_recall": 0.6133333333333332,
+  "rows": 50,
+  "metric_source": "ragas"
+}

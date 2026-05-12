@@ -1,0 +1,52 @@
+question,answer,accuracy,relevance,conciseness,helpfulness,overall
+"Trong tai lieu sample_01.md, noi dung chinh cua doan nay la gi?",Thông tin không được tìm thấy.,1,1,4,1,1.75
+"Trong tai lieu sample_01.md, noi dung chinh cua doan nay la gi?",Thông tin không được tìm thấy.,1,1,5,1,2.0
+"Trong tai lieu sample_01.md, noi dung chinh cua doan nay la gi?",Thông tin không được tìm thấy.,1,1,4,1,1.75
+"Trong tai lieu sample_02.md, noi dung chinh cua doan nay la gi?",Thông tin không được tìm thấy.,1,2,5,1,2.25
+"Trong tai lieu sample_02.md, noi dung chinh cua doan nay la gi?",Thông tin không được tìm thấy.,1,2,4,1,2.0
+"Trong tai lieu sample_02.md, noi dung chinh cua doan nay la gi?",Thông tin không được tìm thấy.,1,2,4,1,2.0
+"Trong tai lieu sample_03.md, noi dung chinh cua doan nay la gi?",Thông tin không được tìm thấy.,1,2,4,1,2.0
+"Trong tai lieu sample_03.md, noi dung chinh cua doan nay la gi?",Thông tin không được tìm thấy.,1,2,4,1,2.0
+"Trong tai lieu sample_03.md, noi dung chinh cua doan nay la gi?",Thông tin không được tìm thấy.,1,2,4,1,2.0
+"Trong tai lieu sample_01.md, noi dung chinh cua doan nay la gi?",Thông tin không được tìm thấy.,1,2,4,1,2.0
+"Trong tai lieu sample_01.md, noi dung chinh cua doan nay la gi?",Thông tin không được tìm thấy.,1,2,4,1,2.0
+"Trong tai lieu sample_01.md, noi dung chinh cua doan nay la gi?",Thông tin không được tìm thấy.,1,1,4,1,1.75
+"Trong tai lieu sample_02.md, noi dung chinh cua doan nay la gi?",Thông tin không được tìm thấy.,1,2,4,1,2.0
+"Trong tai lieu sample_02.md, noi dung chinh cua doan nay la gi?",Thông tin không được tìm thấy.,1,2,4,1,2.0
+"Trong tai lieu sample_02.md, noi dung chinh cua doan nay la gi?",Thông tin không được tìm thấy.,1,2,4,1,2.0
+"Trong tai lieu sample_03.md, noi dung chinh cua doan nay la gi?",Thông tin không được tìm thấy.,1,2,4,1,2.0
+"Trong tai lieu sample_03.md, noi dung chinh cua doan nay la gi?",Thông tin không được tìm thấy.,1,1,5,1,2.0
+"Trong tai lieu sample_03.md, noi dung chinh cua doan nay la gi?",Thông tin không được tìm thấy.,1,2,4,1,2.0
+"Trong tai lieu sample_01.md, noi dung chinh cua doan nay la gi?",Thông tin không được tìm thấy.,1,2,4,1,2.0
+"Trong tai lieu sample_01.md, noi dung chinh cua doan nay la gi?",Thông tin không được tìm thấy.,1,1,5,1,2.0
+"Trong tai lieu sample_01.md, noi dung chinh cua doan nay la gi?",Thông tin không được tìm thấy.,1,1,4,1,1.75
+"Trong tai lieu sample_02.md, noi dung chinh cua doan nay la gi?",Thông tin không được tìm thấy.,1,2,4,1,2.0
+"Trong tai lieu sample_02.md, noi dung chinh cua doan nay la gi?",Thông tin không được tìm thấy.,1,2,4,1,2.0
+"Trong tai lieu sample_02.md, noi dung chinh cua doan nay la gi?",Thông tin không được tìm thấy.,1,2,5,1,2.25
+"Trong tai lieu sample_03.md, noi dung chinh cua doan nay la gi?",Thông tin không được tìm thấy.,1,2,4,1,2.0
+"Tu thong tin trong sample_03.md, co the rut ra ket luan gi lien quan den noi dung duoc neu?","Thông tin trong sample_03.md không được cung cấp, vì vậy không thể rút ra kết luận nào liên quan đến nội dung đó.",5,5,5,5,5.0
+"Tu thong tin trong sample_03.md, co the rut ra ket luan gi lien quan den noi dung duoc neu?","Thông tin trong sample_03.md cho thấy các chính sách và quy định liên quan đến công nghệ thông tin và nhân sự trong công ty. Các điểm chính bao gồm:
+
+1. **Chính sách VPN**: Nhân viên phải sử dụng VPN công ty với mã hóa AES-256, kết nối tối đa 8 giờ và không được sử dụng VPN cá nhân.
+2. **Chính sách email**: Email công ty chỉ dùng cho công việc, không được chuyển tiếp ra email cá nhân, và dung lượng tối đa là 25 GB.
+3. **Chính sách sao lưu dữ liệu**: Dữ liệu công việc phải lưu trên ổ đĩa mạng hoặc hệ thống đám mây phê duyệt, với sao lưu tự động hàng ngày.
+4. **Chính sách bảo mật thông tin**: Thông tin khách hàng và dữ liệu kinh doanh không được chia sẻ mà không có sự cho phép, vi phạm có thể dẫn đến xử lý kỷ luật.
+5. **Chính sách mật khẩu**: Mật khẩu tài khoản phải thay đổi mỗi 90 ngày, có độ dài tối thiểu 12 ký tự và không được sử dụng lại 5 mật khẩu gần nhất.
+6. **Chính sách nghỉ phép**: Nh",5,5,4,5,4.75
+"Tu thong tin trong sample_01.md, co the rut ra ket luan gi lien quan den noi dung duoc neu?","Thông tin trong sample_01.md cho thấy các chính sách liên quan đến bảo mật, sử dụng thiết bị, VPN, và nghỉ phép của nhân viên. Các điểm chính bao gồm:
+
+1. **Bảo mật thông tin**: Không được chia sẻ dữ liệu khách hàng và kinh doanh ra ngoài mà không có sự cho phép, vi phạm có thể dẫn đến xử lý kỷ luật.
+2. **Sử dụng thiết bị**: Thiết bị công ty chỉ dùng cho công việc, không cài đặt phần mềm không phê duyệt, và phải trả lại khi rời công ty.
+3. **VPN**: Nhân viên làm việc từ xa phải sử dụng VPN công ty với quy định về thời gian kết nối và không sử dụng VPN cá nhân.
+4. **Nghỉ phép**: Nhân viên có quyền nghỉ phép năm, nghỉ không lương và nghỉ ốm với các quy định cụ thể về số ngày và thủ tục xin nghỉ.
+
+Tóm lại, các chính sách này nhằm đảm bảo an toàn thông tin và quản lý hiệu quả thời gian làm việc của nhân viên.",5,5,4,5,4.75
+"Tu thong tin trong sample_01.md, co the rut ra ket luan gi lien quan den noi dung duoc neu?","Thông tin trong sample_01.md cho thấy các chính sách liên quan đến bảo mật, sử dụng thiết bị, quản lý email và nghỉ phép của nhân viên. Các quy định này nhằm đảm bảo an toàn thông tin, bảo vệ dữ liệu công ty và quy trình làm việc hiệu quả. Nhân viên cần tuân thủ các quy định về mật khẩu, sử dụng VPN, và báo cáo sự cố bảo mật kịp thời. Đồng thời, chính sách nghỉ phép cũng được quy định rõ ràng để đảm bảo quyền lợi của nhân viên.",5,5,4,5,4.75
+"Tu thong tin trong sample_01.md, co the rut ra ket luan gi lien quan den noi dung duoc neu?","Thông tin trong sample_01.md cho thấy các chính sách liên quan đến bảo mật, sử dụng thiết bị, VPN, và nghỉ phép của nhân viên. Các điểm chính bao gồm:
+
+1. **Bảo mật thông tin**: Không được chia sẻ dữ liệu khách hàng và kinh doanh ra ngoài mà không có sự cho phép, vi phạm có thể dẫn đến xử lý kỷ luật.
+2. **Sử dụng thiết bị**: Thiết bị công ty chỉ được sử dụng cho công việc, không được cài đặt phần mềm không phê duyệt.
+3. **VPN**: Nhân viên làm việc từ xa phải sử dụng VPN công ty với quy định về thời gian kết nối và không được sử dụng VPN cá nhân.
+4. **Nghỉ phép**: Nhân viên có quyền nghỉ phép năm, nghỉ không lương và nghỉ ốm với các quy định cụ thể về số ngày và thủ tục xin nghỉ.
+
+Tóm lại, các chính sách này nhằm đảm bảo an toàn thông tin, sử dụng thiết bị hợp lý và quản lý thời gian nghỉ phép của nhân viên.",5,5,4,5,4.75

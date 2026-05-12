@@ -1,0 +1,82 @@
+[
+  {
+    "question": "Nhan vien chinh thuc duoc nghi phep nam bao nhieu ngay?",
+    "ground_truth": "Nhan vien chinh thuc duoc nghi phep nam 12 ngay lam viec moi nam."
+  },
+  {
+    "question": "Mat khau tai khoan cong ty phai thay doi sau bao nhieu ngay?",
+    "ground_truth": "Mat khau tai khoan cong ty phai duoc thay doi moi 90 ngay."
+  },
+  {
+    "question": "Thoi gian thu viec doi voi nhan vien bac cao la bao nhieu ngay?",
+    "ground_truth": "Thoi gian thu viec la 60 ngay doi voi nhan vien bac cao."
+  },
+  {
+    "question": "Nhan vien duoc huong bao nhieu ngay nghi om co luong moi nam?",
+    "ground_truth": "Nhan vien duoc huong 10 ngay nghi om co luong moi nam."
+  },
+  {
+    "question": "Chi phi luu tru cong tac toi da tai Ha Noi la bao nhieu moi dem?",
+    "ground_truth": "Chi phi luu tru duoc hoan tra theo hoa don thuc te, toi da 1.500.000 VND/dem tai Ha Noi va TP. HCM."
+  },
+  {
+    "question": "VPN cua cong ty su dung giao thuc va ma hoa gi?",
+    "ground_truth": "VPN su dung giao thuc WireGuard voi ma hoa AES-256."
+  },
+  {
+    "question": "Phu cap an uong khi cong tac tai Ha Noi la bao nhieu moi ngay?",
+    "ground_truth": "Ha Noi va TP. HCM: 350.000 VND/ngay."
+  },
+  {
+    "question": "Luong duoc thanh toan vao ngay may hang thang?",
+    "ground_truth": "Luong duoc thanh toan vao ngay 15 hang thang."
+  },
+  {
+    "question": "Cong ty ho tro chi phi dao tao toi da bao nhieu moi nam?",
+    "ground_truth": "Cong ty ho tro chi phi dao tao va phat trien ky nang toi da 10.000.000 VND/nhan vien/nam."
+  },
+  {
+    "question": "Tai khoan bi khoa sau bao nhieu lan dang nhap that bai lien tiep?",
+    "ground_truth": "Tai khoan se bi khoa sau 5 lan dang nhap that bai lien tiep."
+  },
+  {
+    "question": "So ngay nghi phep tang them bao nhieu cho moi 5 nam tham nien?",
+    "ground_truth": "So ngay nghi phep tang them 1 ngay cho moi 5 nam tham nien cong tac."
+  },
+  {
+    "question": "Dung luong hop thu email toi da la bao nhieu?",
+    "ground_truth": "Dung luong hop thu toi da la 25 GB."
+  },
+  {
+    "question": "Chi phi nao duoc coi la can hoa don VAT bat buoc?",
+    "ground_truth": "Hoa don VAT hoac chung tu hop le la bat buoc cho moi khoan chi phi tren 200.000 VND."
+  },
+  {
+    "question": "Nhan vien thu viec nhan bao nhieu phan tram luong chinh thuc?",
+    "ground_truth": "Trong thoi gian thu viec, nhan vien nhan 85% muc luong chinh thuc."
+  },
+  {
+    "question": "Phu cap di lai khi su dung phuong tien ca nhan la bao nhieu tien/km?",
+    "ground_truth": "Nhan vien su dung phuong tien ca nhan cho cong viec duoc hoan tra 3.500 VND/km."
+  },
+  {
+    "question": "Nghi phep khong luong toi da duoc bao nhieu ngay moi nam?",
+    "ground_truth": "Nhan vien co the xin nghi phep khong luong toi da 30 ngay moi nam."
+  },
+  {
+    "question": "Danh gia hieu suat duoc thuc hien may lan trong nam?",
+    "ground_truth": "Danh gia hieu suat duoc thuc hien 2 lan/nam: thang 6 va thang 12."
+  },
+  {
+    "question": "Ket noi VPN duoc cho phep toi da bao nhieu gio lien tuc?",
+    "ground_truth": "Ket noi VPN duoc cho phep toi da 8 gio lien tuc, sau do can dang nhap lai."
+  },
+  {
+    "question": "Chi phi cong tac tai cac tinh thanh khac (ngoai Ha Noi va HCM) la bao nhieu?",
+    "ground_truth": "Cac tinh thanh khac: 250.000 VND/ngay."
+  },
+  {
+    "question": "Bao nhieu ngay truoc ngay khoi hanh can dat ve may bay de tiet kiem chi phi?",
+    "ground_truth": "Dat ve phai thuc hien toi thieu 5 ngay lam viec truoc ngay khoi hanh de tiet kiem chi phi."
+  }
+]
